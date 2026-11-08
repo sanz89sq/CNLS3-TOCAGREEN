@@ -4,7 +4,7 @@
     "ads": "enable",
 	
     "shop": false,
-	"inappurshase": "disable",
+	"inappurshase": "true",
 	
 	"update": false,
     "updatelink": "https://play.google.com/store/apps/details?id=com.maryamber.dandyballoons",
