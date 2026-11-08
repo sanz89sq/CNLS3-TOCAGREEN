@@ -4,13 +4,14 @@
     "ads": "enable",
     "shop": false,
 	"inappurshase": "enable",
+
 	"update": false,
     "updatelink": "https://play.google.com/store/apps/details?id=com.maryamber.dandyballoons",
 
     
-    "admobInterstitial": "ca-app-pub-7757069622252358/9653204631",
-    "admobAppOpen": "ca-app-pub-7757069622252358/4804202633",
-    "admobRewarded": "ca-app-pub-7757069622252358/6593741111",
+     "admobInterstitial": "ca-app-pub-7757069622252358/4018356693",
+    "admobAppOpen": "ca-app-pub-7757069622252358/5219757723",
+    "admobRewarded": "ca-app-pub-7757069622252358/6532839398",
 
 
     "applovinInterstitial": "a59b5ad0944a47af",
