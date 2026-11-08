@@ -2,7 +2,7 @@
   "AdsController": {
     "adNetwork": "admob",
     "ads": "enable",
-    "shop": true,
+    "shop": false,
 	"inappurshase": "enable",
 	"update": false,
     "updatelink": "https://play.google.com/store/apps/details?id=com.maryamber.dandyballoons",
